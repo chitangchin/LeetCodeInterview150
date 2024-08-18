@@ -47,7 +47,6 @@
     <Folder Include="Trie\" />
     <Folder Include="Stack\" />
     <Folder Include="SlidingWindow\" />
-    <Folder Include="TwoPointers\" />
   </ItemGroup>
 
 </Project>
