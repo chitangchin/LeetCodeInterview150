@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ArrayStrings\" />
     <Folder Include="Matrix\" />
     <Folder Include="Dictionary\" />
     <Folder Include="Intervals\" />
