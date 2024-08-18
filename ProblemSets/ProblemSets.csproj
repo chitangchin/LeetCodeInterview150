@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ArrayStrings\" />
+    <Folder Include="Matrix\" />
+    <Folder Include="Dictionary\" />
+    <Folder Include="Intervals\" />
+    <Folder Include="LinkedList\" />
+    <Folder Include="BinaryTreeGeneral\" />
+    <Folder Include="BinaryTreeBFS\" />
+    <Folder Include="BinarySearchTree\" />
+    <Folder Include="GraphGeneral\" />
+    <Folder Include="GraphBFS\" />
+    <Folder Include="Backtracking\" />
+    <Folder Include="DivideConquer\" />
+    <Folder Include="KadaneAlgorithm\" />
+    <Folder Include="BinarySearch\" />
+    <Folder Include="Heap\" />
+    <Folder Include="BitManipulation\" />
+    <Folder Include="Math\" />
+    <Folder Include="1DDP\" />
+    <Folder Include="MultidimensionalDP\" />
+    <Folder Include="Trie\" />
+    <Folder Include="Stack\" />
+    <Folder Include="SlidingWindow\" />
+    <Folder Include="TwoPointers\" />
+  </ItemGroup>
+
+</Project>
