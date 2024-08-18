@@ -1,4 +1,4 @@
-﻿using ProblemSets.ArrayStrings;
+﻿using ProblemSets.ArrayStrings.MergeSortedArray;
 
 namespace ProblemSetTests.ArrayStrings
 {

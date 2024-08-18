@@ -11,7 +11,7 @@ To accommodate this, nums1 has a length of m + n, where the first m elements den
 be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 */
 
-namespace ProblemSets.ArrayStrings
+namespace ProblemSets.ArrayStrings.MergeSortedArray
 {
     public class SolutionClass
     {
