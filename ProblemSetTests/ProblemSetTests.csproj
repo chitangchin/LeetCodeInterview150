@@ -27,7 +27,6 @@
 
   <ItemGroup>
     <Folder Include="Matrix\" />
-    <Folder Include="Dictionary\" />
     <Folder Include="Intervals\" />
     <Folder Include="LinkedList\" />
     <Folder Include="BinaryTreeGeneral\" />
