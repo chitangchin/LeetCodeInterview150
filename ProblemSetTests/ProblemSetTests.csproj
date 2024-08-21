@@ -43,7 +43,6 @@
     <Folder Include="1DDP\" />
     <Folder Include="MultidimensionalDP\" />
     <Folder Include="Trie\" />
-    <Folder Include="Stack\" />
     <Folder Include="SlidingWindow\" />
   </ItemGroup>
 
