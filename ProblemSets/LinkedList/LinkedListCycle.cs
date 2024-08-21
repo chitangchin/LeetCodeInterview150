@@ -9,7 +9,7 @@ namespace ProblemSets.LinkedList.LinkedListCycle
     public class ListNode(int x)
     {
         public int val = x;
-        public ListNode next;
+        public ListNode next = null!;
     }
     public class SolutionClass
     {
