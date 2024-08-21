@@ -27,7 +27,6 @@
 
   <ItemGroup>
     <Folder Include="Matrix\" />
-    <Folder Include="LinkedList\" />
     <Folder Include="BinaryTreeGeneral\" />
     <Folder Include="BinaryTreeBFS\" />
     <Folder Include="BinarySearchTree\" />
