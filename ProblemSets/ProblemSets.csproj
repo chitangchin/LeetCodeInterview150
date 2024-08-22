@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Matrix\" />
-    <Folder Include="BinaryTreeGeneral\" />
     <Folder Include="BinaryTreeBFS\" />
     <Folder Include="BinarySearchTree\" />
     <Folder Include="GraphGeneral\" />
