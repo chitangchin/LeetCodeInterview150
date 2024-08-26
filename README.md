@@ -11,9 +11,7 @@
 - Best for 3+ months of prep time
 
 - Problems support high-quality editorials
-
-- [Link to my Quizlet](https://quizlet.com/933949917/leetcode-150-flash-cards/?i=1bkfj1&x=1jqt)
-
+- 
 ## How I plan on approaching the Interview 150 List
 
 - [ ] Complete Easy for each Category/Pattern
