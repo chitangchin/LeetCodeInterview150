@@ -3,6 +3,7 @@ namespace ProblemSetTests.ArrayStrings
 {
     public class LongestCommonPrefixTest
     {
+        [Test]
         public void Test()
         {
             Assert.That(SolutionClass.LongestCommonPrefix(["flower", "flow", "flight"]), Is.EqualTo("fl"

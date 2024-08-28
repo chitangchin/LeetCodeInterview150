@@ -4,6 +4,7 @@ namespace ProblemSetTests.ArrayStrings
 {
     public class LengthOfLastWordTest
     {
+        [Test]
         public void Test()
         {
             Assert.That(SolutionClass.LengthOfLastWord("Hello World"), Is.EqualTo(5));
