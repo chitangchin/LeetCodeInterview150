@@ -4,7 +4,7 @@ namespace ProblemSetTests.ArrayStrings
 {
     public class FindIndexOfFirstOccInStringTest
     {
-        //[Test] stil solving
+        [Test]
         public void Test()
         {
             Assert.That(SolutionClass.StrStr("sadbutsad", "sad"), Is.EqualTo(0));

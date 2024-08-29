@@ -4,31 +4,17 @@
     {
         public static int StrStr(string haystack, string needle)
         {
-            //Check the first char in needle
-            //check first letter in haystack
-            //if equal then move the pointer in needle and haystack
-            //if not equal then reset needle pointer and check loop again
-            //ssadbutsad
-            // |
-            //sad
-            //|
-            int haystackP = 0;
-            int needleP = 0;
-
-            while (needleP < needle.Length || haystackP < haystack.Length)
+            if (haystack.Length < needle.Length) return -1;
+            if (haystack == needle) return 0;
+            int windowSize = needle.Length;
+            for (int i = 0; i <= haystack.Length - windowSize; i++)
             {
-                if (needle[needleP] == haystack[haystackP])
+                if (haystack[i..(i + windowSize)].ToString() == needle)
                 {
-                    needleP++;
-                    haystackP++;
-                }
-                else
-                {
-                    needleP = 0;
-                    if (haystack[haystackP] != needle[needleP]) haystackP++;
+                    return i;
                 }
             }
-            return haystackP - needleP;
+            return -1;
         }
     }
 }
