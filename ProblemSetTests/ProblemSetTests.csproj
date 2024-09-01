@@ -26,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Matrix\" />
     <Folder Include="BinaryTreeBFS\" />
     <Folder Include="BinarySearchTree\" />
     <Folder Include="GraphGeneral\" />
