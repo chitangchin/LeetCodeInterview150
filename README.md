@@ -11,12 +11,30 @@
 - Best for 3+ months of prep time
 
 - Problems support high-quality editorials
-- 
+
 ## How I plan on approaching the Interview 150 List
 
+### Phase 1
 - [ ] Complete Easy for each Category/Pattern
-- [ ] Practice repetition Learning with the easy questions completed
-- [ ] Branch out to mediums and hards one Category/Pattern at a time
+
+### Phase 2
+- [ ] Choose a question for each category and assign a difficulty level based on your understanding
+- [ ] Store each question for each category in a collection
+
+Difficulty Levels:
+- 🔴Level 3
+- ⚪ Level 2
+- ⚫ Level 1
+
+### Phase 3
+- [ ] Branch out to medium problems while practicing phase 2
+- [ ] Choose a medium question for each category and assign a difficulty level based on your understanding
+- [ ] Store each question for each category in a collection
+
+### Phase 4
+- [ ] Branch out to hard problems while practicing phase 2
+- [ ] Choose a hard question for each category and assign a difficulty level based on your understanding
+- [ ] Store each question for each category in a collection
 
 ## Build
 
