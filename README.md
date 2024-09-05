@@ -1,5 +1,7 @@
 # LeetCodeInterview150
 
+### 🚧 Under Construction 🚧
+
 ## Summary from LeetCode
 
 #### [Link to Problem Set on LeetCode](https://leetcode.com/studyplan/top-interview-150/)
@@ -35,6 +37,17 @@ Difficulty Levels:
 - [ ] Branch out to hard problems while practicing phase 2
 - [ ] Choose a hard question for each category and assign a difficulty level based on your understanding
 - [ ] Store each question for each category in a collection
+
+### Phase 5 
+
+Leetcode Interview 150 Practice Exam
+
+An exam environment for each category which includes:
+- Time Limit
+- Unique Unit Tests
+- Minimal to no setup is required
+
+##### [Github Repository Link](https://github.com/chitangchin/Leetcode-Practice-Exams)
 
 ## Build
 
