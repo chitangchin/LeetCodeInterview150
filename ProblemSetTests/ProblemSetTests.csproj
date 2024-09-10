@@ -37,7 +37,6 @@
     <Folder Include="Heap\" />
     <Folder Include="BitManipulation\" />
     <Folder Include="Math\" />
-    <Folder Include="1DDP\" />
     <Folder Include="MultidimensionalDP\" />
     <Folder Include="Trie\" />
     <Folder Include="SlidingWindow\" />
