@@ -14,6 +14,12 @@
 
 - Problems support high-quality editorials
 
+## Master Google Sheet for Leetcode Interview 150 Tracking:
+
+[Link to Google Sheet](https://docs.google.com/spreadsheets/d/1Y8KtEgdm4d5qkLercBmlFnU7IB0C9dBkPnoTpuZTm4g/edit?usp=sharing)
+
+Please feel free to comment on the google sheet for improvements!
+
 ## How I plan on approaching the Interview 150 List
 
 ### Phase 1
