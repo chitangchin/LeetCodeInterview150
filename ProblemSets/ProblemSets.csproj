@@ -20,7 +20,6 @@
     <Folder Include="Math\" />
     <Folder Include="MultidimensionalDP\" />
     <Folder Include="Trie\" />
-    <Folder Include="SlidingWindow\" />
   </ItemGroup>
 
 </Project>
