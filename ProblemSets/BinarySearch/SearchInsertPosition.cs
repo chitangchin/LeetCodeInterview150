@@ -10,15 +10,25 @@ namespace ProblemSets.BinarySearch.SearchInsertPosition
     {
         public static int SearchInsert(int[] nums, int target)
         {
-            int leftPointer = 0, rightPointer = nums.Length - 1, midPointer;
-            while (leftPointer <= rightPointer)
+            int startPointer = 0, endPointer = nums.Length - 1, midPointer;
+            while (startPointer <= endPointer)
             {
-                midPointer = (rightPointer + leftPointer) / 2;
-                if (nums[midPointer] < target) leftPointer = midPointer + 1;
-                else if (nums[midPointer] > target) rightPointer = midPointer - 1;
-                else return midPointer;
+                midPointer = startPointer + (endPointer - startPointer) / 2;
+                if (nums[midPointer] < target)
+                {
+                    startPointer = midPointer + 1;
+                }
+                else if (nums[midPointer] > target)
+                {
+                    endPointer = midPointer - 1;
+                }
+                else
+                {
+                    return midPointer;
+                }
             }
-            return leftPointer;
+            return startPointer;
         }
     }
 }
+
